@@ -1,7 +1,6 @@
-- 👋🏽  Kia ora, I’m @kinantid
-- 👀  Interested in fintech, empowering others, user experience, and business strategy
-- 🌱  Currently learning how to use HTML, CSS, JS, and React to build websites and web apps
-- 📫  Reach me at kina.digital 👋🏽
+# Hey, I'm [Kina](https://kinadesy.com) 👋🏽
+
+### I design beautiful, intuitive analytics to help people make data-informed decisions at [Kolatr](https://kolatr.ai). 
 
 <!---
 kinantid/kinantid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
